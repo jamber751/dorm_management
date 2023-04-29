@@ -1,0 +1,12 @@
+.auth-box {
+    max-width: 650px;
+}
+
+.panel:hover {
+    background-color: lightgray;
+}
+
+.panel-link {
+    color: #212529;
+    text-decoration: none;
+}
